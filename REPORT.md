@@ -62,7 +62,7 @@ For the negative class (loan_status = 0): 18663 / (18663 + 102) ≈ 0.995
 
 * Confusion Matrix:
 
-![](images/matrix1.png)
+![](images/matrix2.png)
 
 * Precision:
 
