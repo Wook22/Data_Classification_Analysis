@@ -34,9 +34,9 @@ Use your knowledge of logistic regression to complete the following steps:
 
 3. Evaluate the model’s performance by doing the following:
 
-        * Generate a confusion matrix.
+       * Generate a confusion matrix.
 
-        * Print the classification report.
+       * Print the classification report.
 
 4. Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
 
