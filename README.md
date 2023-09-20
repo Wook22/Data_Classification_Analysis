@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Data Classification Analysis
 
 ## Background
 
